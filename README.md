@@ -20,6 +20,7 @@ The annotated people are counted in each article and group variables are created
 Files are provided by request to jonas.schwenke@uni-konstanz.de
 
 - MediaCloud URLs
-- scraped articles
-- annotated people
-- list of shootings
+- Bias Ratings from AllSides and Media Bias Fact Check
+- Scraped Articles
+- Annotated People
+- List of Shootings
